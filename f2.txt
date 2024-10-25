@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 manasi avinash sawant from pune 
+=======
+manasi avinash sawantfrom pune 
+>>>>>>> 50fbf45d7e46eae05a89c02fe0c4b979d6c7056b
 completed bachlor degree in BCA
